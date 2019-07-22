@@ -1,4 +1,4 @@
-# SkyEngine
+# WiTrucks
 
 ## Implementation of a flight search website in Laraval, a PHP framework.
 
